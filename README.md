@@ -1,4 +1,4 @@
-# Sistema Cadastro de Alunos em Linguagem de Programação C
+## Sistema Cadastro de Alunos em Linguagem de Programação C
 
 Projeto Prático do Curso Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
