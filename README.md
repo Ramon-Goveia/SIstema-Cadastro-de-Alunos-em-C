@@ -1,2 +1,7 @@
-# Sistema-Cadastro-de-Alunos-em-C
-Atividade Prática Análise e Desenvolvimento de Sistemas
+# Sistema Cadastro de Alunos em Linguagem de Programação C
+
+Projeto Prático do Curso Tecnólogo em Análise e Desenvolvimento de Sistemas.
+
+O projeto simula um sistema de cadastro de alunos.
+
+
